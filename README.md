@@ -49,18 +49,23 @@ Logging	Python Logging Module
 Testing	Pytest
 Containerization	Docker
 Version Control	Git
+
+
 **📐 System Architecture**
 ✅ Modular Design – Separate services for APIs, tasks, caching, and logging.
 ✅ Scalability – Supports large-scale document processing and retrieval.
 ✅ Transactional Consistency – Ensures synchronization across DB, cache, and message queue.
+
+
 **📌 Future Enhancements**
 Integrate FAISS for optimized vector search.
 
 Deploy on AWS/GCP with managed PostgreSQL & RabbitMQ.
 
 Implement a front-end UI for interactive document management and Q&A.
-
 💡 Contributions are welcome! Feel free to fork, improve, and submit PRs. 🚀
+
+
 ## 🖼 Sample Images
 ![image](https://github.com/user-attachments/assets/d11d071b-b373-462f-8ab6-55cd4da58bec)
 ![image](https://github.com/user-attachments/assets/7f9324ed-7c96-4a37-a484-87c00273ca43)
